@@ -1,14 +1,14 @@
 {
-  "name": "fs-extra",
+  "name": "fs-extra-update",
   "version": "6.0.1",
   "description": "fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.",
   "engines": {
     "node": ">=6 <7 || >=8"
   },
-  "homepage": "https://github.com/jprichardson/node-fs-extra",
+  "homepage": "https://github.com/mpsingh2003/node-fs-extra",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jprichardson/node-fs-extra"
+    "url": "https://github.com/mpsingh2003/node-fs-extra"
   },
   "keywords": [
     "fs",
